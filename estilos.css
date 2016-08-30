@@ -1,0 +1,67 @@
+*{
+	border:0;
+	margin:0;
+	padding: 0;
+}
+body{
+	background: #ccc;
+}
+#contenedor{
+	
+	height: 1050px;
+	width: 750px;
+	margin-right: auto;: 
+	margin-left: auto;
+
+}
+header,
+#banner,
+#noticias,
+#tienda,
+#marcas{
+	background: #fff;
+	width: 750px;
+	height: 100px;
+}
+header{
+	text-align: center;
+}
+#banner{
+	height: 310px;
+	background: #663;
+}
+#noticias{
+	background: #fff;
+	height: 220px;
+}
+#tienda{
+	background: #665;
+	height: 100px;
+}
+#marcas{
+	background: #fff;
+	height: 100px;
+}
+footer{
+	background: #f21;
+	width: 780px;
+	height: 60;
+}
+#noticias #noticia1{
+	background: #999;
+	width: 240px;
+	height: 220px;
+	display: inline-block;
+}
+#noticias #noticia2{
+	background: #124EB0;
+	width: 240px;
+	height: 220px;
+	display: inline-block;
+}
+#noticias #noticia3{
+	background: #F98E13;
+	width: 240px;
+	height: 220px;
+	display: inline-block;
+}
